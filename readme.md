@@ -3,14 +3,16 @@
 ## Lecturer: <a href="https://www.tiesdekok.com" target="_blank">Ties de Kok</a> (University of Washington)
 ## Syllabus: <a href='https://github.com/TiesdeKok/acctg-579B/blob/master/syllabus.pdf'>link</a>
 
-### Set up prep:
-
-### Session prep:
+----
+### Setup prep:
 
 **Please complete the following steps:**
 
 1. <a href='#'>Set up Discord</a>
 2. <a href='#'>Set up your Python environment</a>
+
+----
+### Session prep:
 
 #### Session 1
 
