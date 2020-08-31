@@ -1,7 +1,7 @@
 # ACCTG 579B - Python
-## Edition: *2020*
-## Lecturer: <a href="https://www.tiesdekok.com" target="_blank">Ties de Kok</a> (University of Washington)
-## Syllabus: <a href='https://github.com/TiesdeKok/acctg-579B/blob/master/syllabus.pdf'>link</a>
+### Edition: *2020*
+### Lecturer: <a href="https://www.tiesdekok.com" target="_blank">Ties de Kok</a> (University of Washington)
+### Syllabus: <a href='https://github.com/TiesdeKok/acctg-579B/blob/master/syllabus.pdf'>link</a>
 
 ----
 ### Setup prep:
@@ -16,57 +16,66 @@
 
 #### Session 1
 
-**Please watch:**  
-    * <a href='#'>Lecture</a>  
-    * <a href='#'>Demonstration</a>  
+**Please watch:** 
+
+- <a href='#'>Lecture</a>  
+- <a href='#'>Demonstration</a>  
 
 #### Session 2
 
 **Please watch:**  
-    * <a href='#'>Lecture</a>  
-    * <a href='#'>Demonstration</a>  
+
+- <a href='#'>Lecture</a>  
+- <a href='#'>Demonstration</a>  
 
 #### Session 3
 
 **Please watch:**  
-    * <a href='#'>Lecture</a>  
-    * <a href='#'>Demonstration</a>  
+
+- <a href='#'>Lecture</a>  
+- <a href='#'>Demonstration</a>  
 
 #### Session 4
 
 **Please watch:**  
-    * <a href='#'>Lecture</a>  
-    * <a href='#'>Demonstration</a>  
+
+* <a href='#'>Lecture</a>  
+* <a href='#'>Demonstration</a>  
 
 #### Session 5
 
 **Please watch:**  
-    * <a href='#'>Lecture</a>  
-    * <a href='#'>Demonstration</a>  
+
+* <a href='#'>Lecture</a>  
+* <a href='#'>Demonstration</a>  
 
 #### Session 6
 
 **Please watch:**  
-    * <a href='#'>Lecture</a>  
-    * <a href='#'>Demonstration</a>  
+
+* <a href='#'>Lecture</a>  
+* <a href='#'>Demonstration</a>  
  
 #### Session 7
 
 **Please watch:**  
-    * <a href='#'>Lecture</a>  
-    * <a href='#'>Demonstration</a>  
+
+* <a href='#'>Lecture</a>  
+* <a href='#'>Demonstration</a>  
 
 #### Session 8
 
 **Please watch:**  
-    * <a href='#'>Lecture</a>  
-    * <a href='#'>Demonstration</a>  
+
+* <a href='#'>Lecture</a>  
+* <a href='#'>Demonstration</a>  
 
 #### Session 9
 
 **Please watch:**  
-    * <a href='#'>Lecture</a>  
-    * <a href='#'>Demonstration</a>  
+
+* <a href='#'>Lecture</a>  
+* <a href='#'>Demonstration</a>  
  
 ### How to download the materials? 
 
