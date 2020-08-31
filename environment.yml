@@ -1,0 +1,39 @@
+name: researchPython
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - pip
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - xlrd
+  - openpyxl
+  - hickle
+  - PyTables
+  - spacy
+  - textblob
+  - nltk
+  - ipywidgets
+  - gensim
+  - requests
+  - seaborn
+  - bokeh
+  - lxml
+  - cssselect
+  - plotnine
+  - selenium
+  - pip:
+    - requests-html
+    - joblib
+    - tqdm
+    - scikit-learn 
+    - spacy-langdetect
+    - spacy-readability
+    - pyldavis
+    - unidecode
+    - fuzzywuzzy
+    - pqdm
+
