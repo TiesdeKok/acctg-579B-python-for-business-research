@@ -14,68 +14,97 @@
 ----
 ### Session prep:
 
-#### Session 1
+#### <u>Session 1</u> 
+*Tuesday - Sept. 15th - 12pm*
 
 **Please watch:** 
 
 - <a href='#'>Lecture</a>  
 - <a href='#'>Demonstration</a>  
 
-#### Session 2
+**Deliverable due:** Friday October 2nd 2020 (11:59pm)
+
+#### <u>Session 2</u> 
+*Thursday - Sept. 17th - 12pm*
 
 **Please watch:**  
 
 - <a href='#'>Lecture</a>  
 - <a href='#'>Demonstration</a>  
 
-#### Session 3
+**Deliverable due:** Friday October 2nd 2020 (11:59pm)
+
+#### <u>Session 3</u>
+*Tuesday - Sept. 22nd - 12pm*
 
 **Please watch:**  
 
 - <a href='#'>Lecture</a>  
 - <a href='#'>Demonstration</a>  
 
-#### Session 4
+**Deliverable due:** Friday October 2nd 2020 (11:59pm)
+
+#### <u>Session 4</u> 
+*Thursday - Sept. 24th - 12pm*
+
+**Please watch:**  
+
+* <a href='#'>Lecture</a>  
+* <a href='#'>Demonstration</a> 
+
+**Deliverable due:** Friday October 2nd 2020 (11:59pm)
+
+#### <u>Session 5</u> 
+*Tuesday - Oct. 6th - 12pm*
 
 **Please watch:**  
 
 * <a href='#'>Lecture</a>  
 * <a href='#'>Demonstration</a>  
 
-#### Session 5
+**Deliverable due:** Friday October 30th 2020 (11:59pm)
+
+#### <u>Session 6</u> 
+*Thursday - Oct. 8th - 12pm*
 
 **Please watch:**  
 
 * <a href='#'>Lecture</a>  
 * <a href='#'>Demonstration</a>  
 
-#### Session 6
-
-**Please watch:**  
-
-* <a href='#'>Lecture</a>  
-* <a href='#'>Demonstration</a>  
+**Deliverable due:** Friday October 30th 2020 (11:59pm)
  
-#### Session 7
+#### <u>Session 7</u>
+*Tuesday - Oct. 13th - 12pm*
 
 **Please watch:**  
 
 * <a href='#'>Lecture</a>  
 * <a href='#'>Demonstration</a>  
 
-#### Session 8
+**Deliverable due:** Friday October 30th 2020 (11:59pm)
+
+#### <u>Session 8</u>
+*Thursday - Oct. 15th - 12pm*
 
 **Please watch:**  
 
 * <a href='#'>Lecture</a>  
 * <a href='#'>Demonstration</a>  
 
-#### Session 9
+**Deliverable due:** Friday October 30th 2020 (11:59pm)
+
+#### <u>Session 9</u> 
+*Tuesday - Oct. 20th - 12pm*
 
 **Please watch:**  
 
 * <a href='#'>Lecture</a>  
 * <a href='#'>Demonstration</a>  
+
+**No deliverable**
+
+----
  
 ### How to download the materials? 
 
