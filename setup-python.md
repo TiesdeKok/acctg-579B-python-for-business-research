@@ -10,7 +10,7 @@ The core tools are:
 * Anaconda Distribution
 * Jupyter Notebooks + Jupyter Lab
 
-We will also use a large collection of third-party Python packages and library. A full list can be found in the [`environment.yml`](https://github.com/TiesdeKok/limperg_python/blob/master/environment.yml) file. 
+We will also use a large collection of third-party Python packages and library. A full list can be found in the [`environment.yml`](https://github.com/TiesdeKok/acctg-579b/blob/master/environment.yml) file. 
 
 ## Some important remarks:
 
@@ -58,7 +58,7 @@ On a decent computer it shouldn't take more than 30 to 45 minutes to get everyth
 > 
 > [![How to interact with Python Anaconda Distribution](https://img.youtube.com/vi/pu2vVRUUVao/0.jpg)](https://www.youtube.com/watch?v=pu2vVRUUVao "How to interact with Python Anaconda Distribution")
 
-###  **Step 2:** (temporarily) download the LimpergPython Github repository
+###  **Step 2:** (temporarily) download the acctg-579b Github repository
 
 The `ACCTG-579B` GitHub repository is not yet completely done, but it already includes the `environment.yml` file that you need for step 3. So for now just follow the video and create a local copy of this repository: [repository](https://github.com/TiesdeKok/acctg-579B)  
 
