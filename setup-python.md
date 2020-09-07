@@ -6,7 +6,7 @@ This Python course requires a computer that is set up with the appropriate softw
 
 The core tools are:
 
-* Python 3.7 
+* Python 3.6+ (for new installations we will use 3.8) 
 * Anaconda Distribution
 * Jupyter Notebooks + Jupyter Lab
 
@@ -18,7 +18,7 @@ We will also use a large collection of third-party Python packages and library. 
 
 I'd like everyone to complete the steps, even if you already have Python set up on your computer. Doing so will make sure that everyone has the same setup, this makes solving technical issues a lot more managable. You can have multiple Python installations / Conda environments on your computer, so you don't need to uninstall your current setup. 
 
-One exception is if you already have the Python 3.7 version of Anaconda installed on your computer, in that case you can skip step 1. 
+One exception is if you already have the Python 3.7 or 3.8 version of Anaconda installed on your computer, in that case you can skip step 1. 
 
 > Do I have to use Jupyter Notebooks? I'd much rather use tool .... 
 
@@ -40,48 +40,56 @@ On a decent computer it shouldn't take more than 30 to 45 minutes to get everyth
 
 ## Setup steps:
 
-###  **Step 0:** make sure you are comfortable with the command line / terminal. 
+###  **Step 0:** watch primer on using the command line / terminal: 
 
-> How to change directory using the command line or terminal (click to play):  
+> How to change directory using the command line or terminal:  
 > 
-> [![How to change directory using the command line or terminal](https://img.youtube.com/vi/1rUFqkRQkok/0.jpg)](https://www.youtube.com/watch?v=1rUFqkRQkok "How to change directory using the command line or terminal")
+> [Panopto: How to change directory using the command line or terminal](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9d8e0760-391c-4ef3-9310-ac2a01269af0)
 
-###  **Step 1a:** install the Anaconda Distribution with Python 3.7.
+###  **Step 1a:** install the Anaconda Distribution with Python 3.8.
 
-> How to install the Python Anaconda Distribution (click to play):  
+**NOTE:** Anaconda just switched to Python 3.8, so just install 3.8 (in the video it mentions 3.7).
+
+
+> How to install the Python Anaconda Distribution:  
 > 
-> [![How to install the Python Anaconda Distribution](https://img.youtube.com/vi/_hsPV5ZZoJo/0.jpg)](https://www.youtube.com/watch?v=_hsPV5ZZoJo "How to install the Python Anaconda Distribution")
+> [Panopto: How to install the Python Anaconda Distribution](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0febfea1-3d60-4345-93d0-ac2a0129cc28)
 
 ###  **Step 1b:** learn how to interact with the Anaconda Distribution.
 
-> How to interact with Python Anaconda Distribution (click to play):  
+> How to interact with Python Anaconda Distribution:  
 > 
-> [![How to interact with Python Anaconda Distribution](https://img.youtube.com/vi/pu2vVRUUVao/0.jpg)](https://www.youtube.com/watch?v=pu2vVRUUVao "How to interact with Python Anaconda Distribution")
+> [Panopto: How to interact with Python Anaconda Distribution](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4fe48220-4381-4aca-ba55-ac2a012b29ac)
 
 ###  **Step 2:** (temporarily) download the acctg-579b Github repository
 
-The `ACCTG-579B` GitHub repository is not yet completely done, but it already includes the `environment.yml` file that you need for step 3. So for now just follow the video and create a local copy of this repository: [repository](https://github.com/TiesdeKok/acctg-579B)  
+The `ACCTG-579B` GitHub repository includes the `environment.yml` file that you need for step 3. So make sure to create a local copy of this repository: [repository](https://github.com/TiesdeKok/acctg-579B)  
 
-> How to create a local copy of a Github repository  (click to play):  
+> How to create a local copy of a Github repository:  
 > 
-> [![How to create a local copy of a Github repository](https://img.youtube.com/vi/lnAAw97hVk0/0.jpg)](https://www.youtube.com/watch?v=lnAAw97hVk0 "How to create a local copy of a Github repository")
+> [Panopto: How to create a local copy of a Github repository](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=650dd080-751e-44f2-9b6b-ac2a0128101d)
 
 ###  **Step 3:** create the `researchPython` conda environment
 
-**Note:** in the video the name of the environment is slightly different, but the steps are exactly the same! 
-
-> How to create and use a Python Conda environment (click to play):  
+> **Note:** the `environment.yml` in the video is slightly different as the one will install. Just follow the steps in the video but anytime there is a mention of `limpergPython` replace it with `researchPython`. The steps are exactly the same (just the name and `environment.yml` are different). 
 > 
-> [![How to create and use a Python Conda environment](https://img.youtube.com/vi/CsqHyPMDSnc/0.jpg)](https://www.youtube.com/watch?v=CsqHyPMDSnc "How to create and use a Python Conda environment")
-
-### **Step 4:** test environment by starting and closing a Jupyter Lab session
-
-If Jupyter Lab opens up without issues you are good to go for now! More instructions will follow on how to use Jupyter Lab and Jupyter Notebooks.
-
-> How to start a Jupyter Notebook or Jupyter Lab server (click to play):  
+> How to create and use a Python Conda environment:  
 > 
-> [![How to start a Jupyter Notebook or Jupyter Lab server](https://img.youtube.com/vi/pHvIGIRhFM8/0.jpg)](https://www.youtube.com/watch?v=pHvIGIRhFM8 "How to start a Jupyter Notebook or Jupyter Lab server")
+> [Panopto: How to create and use a Python Conda environment](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a0f0c45e-e667-4ba5-99cb-ac2a01269b29)
+
+### **Step 4:** test environment by starting a Jupyter Lab session
+
+> **NOTE:** anytime there is a mention of `limpergPython` replace it with `researchPython`.
+> 
+> How to start a Jupyter Notebook or Jupyter Lab server:  
+> 
+> [Panopto: How to start a Jupyter Notebook or Jupyter Lab server](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b226f64a-3d90-449f-a410-ac2a01269b69)
 
 ### **Step 5:** run the test notebook to make sure everything is 100% set up correctly. 
 
-Check the notebook: .... **TBD**
+> **Steps:**
+>
+> 1. Make sure you have Jupyter Lab open (follow Step 4)  
+> 2. In Jupyter Lab, find and open the notebook called `setup_test.ipynb` (should be in the folder you downloaded in step 2)  
+> 3. Run all the cells in this notebook and check for any errors.  
+> 4. Follow the steps provided in the notebook if you experience problems (or contact me if you get stuck).  
