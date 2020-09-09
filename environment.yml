@@ -30,8 +30,6 @@ dependencies:
     - joblib
     - tqdm
     - scikit-learn 
-    - spacy-langdetect
-    - spacy-readability
     - pyldavis
     - unidecode
     - fuzzywuzzy
