@@ -59,8 +59,8 @@
 
 **Please watch:**  
 
-* <a href='#'>Lecture (TBD)</a>  
-* <a href='#'>Demonstration (TBD)</a>  
+* <a href='https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b7c4ed44-ab1e-44f2-b0f1-ac3e00010be2'>Lecture</a>  
+* <a href='https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a3a32d6-6f88-4418-bec9-ac3e00011e23'>Demonstration</a> 
 
 **Deliverable due:** Friday October 30th 2020 (11:59pm)
 
@@ -69,8 +69,8 @@
 
 **Please watch:**  
 
-* <a href='#'>Lecture (TBD)</a>  
-* <a href='#'>Demonstration (TBD)</a>  
+* <a href='https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f2dfcfd9-455d-4d49-ad25-ac3e00010446'>Lecture</a>  
+* <a href='https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d1915afc-037a-4bcd-bbe8-ac3e000113d2'>Demonstration</a>  
 
 **Deliverable due:** Friday October 30th 2020 (11:59pm)
  
@@ -79,8 +79,8 @@
 
 **Please watch:**  
 
-* <a href='#'>Lecture (TBD)</a>  
-* <a href='#'>Demonstration (TBD)</a>  
+* <a href='https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7ac167fa-2232-4287-9386-ac3f017a92c1'>Lecture</a>  
+* <a href='https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=16e136ca-e10f-4e24-afce-ac3f017a8556'>Demonstration</a> 
 
 **Deliverable due:** Friday October 30th 2020 (11:59pm)
 
@@ -89,8 +89,8 @@
 
 **Please watch:**  
 
-* <a href='#'>Lecture (TBD)</a>  
-* <a href='#'>Demonstration (TBD)</a>  
+* <a href='https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e9854467-2f26-43f3-a951-ac3f017a9832'>Lecture</a>  
+* <a href='https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d45d1b93-ad98-410d-adec-ac3f017a8c6c'>Demonstration</a> 
 
 **Deliverable due:** Friday October 30th 2020 (11:59pm)
 
@@ -99,8 +99,8 @@
 
 **Please watch:**  
 
-* <a href='#'>Lecture (TBD)</a>  
-* <a href='#'>Demonstration (TBD)</a>  
+* <a href='https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f1bca33f-1ab3-4f2a-9b60-ac40000009b3'>Lecture</a>  
+* <a href='https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7c6c86a7-652a-4731-80f1-ac2a013422e5'>Demonstration</a>  
 
 **No deliverable**
 

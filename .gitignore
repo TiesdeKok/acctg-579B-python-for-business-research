@@ -15,6 +15,10 @@ solved-*
 
 **/pipeline/**
 
+## Do not sync prep folders
+
+**/prep/**
+
 ## Do not sync demonstrations
 demonstration/
 
@@ -31,11 +35,6 @@ debug.log
 
 ## Hide future sessions for now
 
-problems/session_5
-problems/session_6
-problems/session_7
-problems/session_8
-problems/session_9
 
 
 
