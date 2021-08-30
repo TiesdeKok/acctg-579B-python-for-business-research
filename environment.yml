@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.8
+  - python=3.9
   - pip
   - jupyterlab
   - matplotlib
@@ -11,7 +11,6 @@ dependencies:
   - pandas
   - xlrd
   - openpyxl
-  - hickle
   - PyTables
   - spacy
   - textblob
@@ -24,15 +23,16 @@ dependencies:
   - lxml
   - cssselect
   - plotnine
+  - plotly
   - selenium
   - pip:
+    - click==7.1.2
     - requests-html
     - joblib
     - tqdm
+    - pqdm
     - scikit-learn 
     - pyldavis
     - unidecode
     - fuzzywuzzy
-    - pqdm
-    - qgrid
 
