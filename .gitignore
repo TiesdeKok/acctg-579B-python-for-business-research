@@ -36,6 +36,9 @@ problems.zip
 solved.zip
 solved/**
 
+## Temporary to avoid confusion
+problems/session_[3456789]/**
+!problems/session_[3456789]/placeholder.tbd
 
 
 
