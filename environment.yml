@@ -33,6 +33,7 @@ dependencies:
     - pqdm
     - scikit-learn 
     - pyldavis
-    - unidecode
     - fuzzywuzzy
     - jupyterlab-widgets=1.1.1
+    - wasabi=0.10.1
+    - unidecode
