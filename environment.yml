@@ -34,6 +34,6 @@ dependencies:
     - scikit-learn 
     - pyldavis
     - fuzzywuzzy
-    - jupyterlab-widgets=1.1.1
-    - wasabi=0.10.1
+    - jupyterlab-widgets==1.1.1
+    - wasabi==0.10.1
     - unidecode
