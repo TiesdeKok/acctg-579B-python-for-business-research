@@ -37,8 +37,8 @@ solved.zip
 solved/**
 
 ## Temporary to avoid confusion
-problems/session_[789]/**
-!problems/session_[789]/placeholder.tbd
+problems/session_[89]/**
+!problems/session_[89]/placeholder.tbd
 
 **/x_old**
 
