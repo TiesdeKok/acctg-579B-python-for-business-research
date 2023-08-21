@@ -7,7 +7,12 @@
 
 This is a standalone version of my former ACCTG 579B Ph.D. class.
 
-You can complete the course at your own pace by following the steps below in chronological order. This was a full-credit class, so the time required to complete all the problem sets is between two to eight weeks, depending on how much time you work on it daily. 
+A few important notes and caveats:  
+- You can complete the course at your own pace by following the steps below in chronological order.   
+- This was a full-credit class, so the time required to complete all the problem sets is between two to eight weeks, depending on how much time you work on it daily.
+- The web scraping problem set involves interacting with third parties websites that can change over time. If that is the case, you can ignore those parts or complete the spirit of the exercises using a different website.
+- The NLP and ML classes last received a major update in 2021, and they lack a discussion about all the recent developments in that space. I have added a few extra of my materials at the end to cover those gaps.
+- Yes, ChatGPT and GPT-4 can solve many of these problem sets for you as they are reasonably straightforward. However, for real research projects, you often end up in a scenario where ChatGPT/GPT-4 cannot solve your problem and you need to figure it out yourself. You are welcome to use AI coding co-pilots to improve your learning, but by simply copy-pasting things from ChatGPT into Jupyter, you generally don't learn much. So be responsible; the ultimate objective is to learn how to use Python, not to solve the problem sets. 
 
 ----
 
@@ -113,3 +118,19 @@ Complete the steps in the following document:
 
 **Part 2:** No problem set.
 
+----
+
+## Bonus material - modern NLP and AI
+
+**My 2023 EAA session on modern NLP techniques for Accounting research:**
+- <a href='https://youtu.be/0PtD9yMMAVY'>Recording</a>
+
+**My 2023 PyData talk on Generative AI and NLP:**
+- <a href='https://www.youtube.com/watch?v=CG3b6D3XNOE'>Recording</a>
+- <a href='https://github.com/TiesdeKok/pydata_2023'>Materials</a>
+
+**My paper on the application of Generative LLMs for NLP tasks in Accounting research:**
+- <a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4429658'>SSRN</a>
+
+**My medium article on using ChatGPT for downstream NLP tasks:**
+- <a href='https://medium.com/towards-data-science/beyond-chat-bots-the-power-of-prompt-based-gpt-models-for-downstream-nlp-tasks-21eff204d599'>Medium article</a>
