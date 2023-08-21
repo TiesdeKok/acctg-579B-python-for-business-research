@@ -1,7 +1,7 @@
 # ACCTG 579B - Python for business PhD students
 ### Creator: <a href="https://www.tiesdekok.com" target="_blank">Ties de Kok</a> 
 ### Edition: *Standalone* 
-(last big update: August 2022, last minor update: August 2023)
+(last big update: August 2021, last minor update: August 2023)
 
 ----
 
