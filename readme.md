@@ -12,8 +12,8 @@ A few important notes and caveats:
 - This was a full-credit class, so the time required to complete all the problem sets is between two to eight weeks, depending on how much time you work on it daily.
 - The web scraping problem set involves interacting with third parties websites that can change over time. If that is the case, you can ignore those parts or complete the spirit of the exercises using a different website.
 - The NLP and ML classes last received a major update in 2021, and they lack a discussion about all the recent developments in that space. I have added a few extra of my materials at the end to cover those gaps.
-- Yes, ChatGPT and GPT-4 can solve many of these problem sets for you as they are reasonably straightforward. However, for real research projects, you often end up in a scenario where ChatGPT/GPT-4 cannot solve your problem and you need to figure it out yourself. You are welcome to use AI coding co-pilots to improve your learning, but by simply copy-pasting things from ChatGPT into Jupyter, you generally don't learn much. So be responsible; the ultimate objective is to learn how to use Python, not to solve the problem sets. 
-
+- Yes, ChatGPT and GPT-4 can solve many of these problem sets for you as they are reasonably straightforward. However, for real research projects, you often end up in a scenario where ChatGPT/GPT-4 cannot solve your problem and you need to figure it out yourself. You are welcome to use AI coding co-pilots to improve your learning, but by simply copy-pasting things from ChatGPT into Jupyter, you generally don't learn much. So be responsible; the ultimate objective is to learn how to use Python, not to solve the problem sets.
+- 
 ----
 
 ## Step 0: download the materials
@@ -135,3 +135,20 @@ Complete the steps in the following document:
 
 **My medium article on using ChatGPT for downstream NLP tasks:**
 - <a href='https://medium.com/towards-data-science/beyond-chat-bots-the-power-of-prompt-based-gpt-models-for-downstream-nlp-tasks-21eff204d599'>Medium article</a>
+
+----
+
+<details>
+  <summary>Looking for solutions?</summary>
+  
+  I've uploaded my solutions to this repository as a ([zip file](https://github.com/TiesdeKok/acctg-579B-python-for-business-research/blob/master/Python_solutions.zip)). However, it is password protected so that you don't accidentally open it.
+
+  You cannot unsee the answer! For your own research projects you have no answer key and you have to figure it out, there is no other way. Treat the problem sets similarly until you've given it your all. After that you can cross-reference your answer with mine, which can sometimes be a good learning experience.
+
+  Ok, are you sure you want to open the solutions? Alright, the password is below.
+
+  <details>
+  <summary>Show password</summary>
+    RememberNoNeuralyzer!
+  </details>
+</details>
