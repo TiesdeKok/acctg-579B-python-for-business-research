@@ -124,6 +124,7 @@ Complete the steps in the following document:
 
 **My 2023 EAA session on modern NLP techniques for Accounting research:**
 - <a href='https://youtu.be/0PtD9yMMAVY'>Recording</a>
+- <a href='https://github.com/TiesdeKok/eaa_2023_nlp_workshop'>Materials</a>
 
 **My 2023 PyData talk on Generative AI and NLP:**
 - <a href='https://www.youtube.com/watch?v=CG3b6D3XNOE'>Recording</a>
